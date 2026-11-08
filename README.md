@@ -1,0 +1,2 @@
+# Finkro
+FinOps Agent
